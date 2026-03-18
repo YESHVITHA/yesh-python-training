@@ -40,4 +40,3 @@ print("Ascending swaps",asc_swaps)
 desc_order,desc_swaps= bubble_sort_descending(arr)
 print("Descending:",desc_order)
 print("Descending swaps",desc_swaps)
-
